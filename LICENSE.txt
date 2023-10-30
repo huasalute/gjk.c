@@ -1,5 +1,5 @@
        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2005 
+                    Version 2, December 2004 
 
 Copyright (C) 2016 Igor Kroitor <igor.kroitor@gmail.com>
  
